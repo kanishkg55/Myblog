@@ -1,0 +1,1 @@
+<ul> list is used for any list without numbering. so if you replace <ul> tag with <ol> ordered list tag you will see your menu items will be numbered.
